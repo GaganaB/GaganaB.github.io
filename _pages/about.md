@@ -9,7 +9,13 @@ redirect_from:
 
 Hi, I'm Gagana!
 
-**High School / Pre-undergrad**: 
+**High School / Pre-Undergrad**: Distinctive Performance in International Mathematics Olympiad (IMO) | National University of Singapore (NUS) Summer School 
+
+**First Year Undergrad**: First Academic Journal Publication on potential solution to the Rosenblantt Problem | Optimized Solution to the Rosenblantt Problem (ACM Digital Library) | Indian Patent for Turing solution to the Rosenblantt Problem | Selected to MIT Media Labs Design Workshop 
+
+**Second Year Undergrad**: Research Fellowship at HCI/CRC, Stanford University [Top 10%] (In their terms, "an incredibly ambitious" cohort on AI governance to build iterative feedback systems to evolve cooperation from repeated interactions)
+
+**
 
 A data-driven personal website
 ======
