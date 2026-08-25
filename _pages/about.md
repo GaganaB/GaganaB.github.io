@@ -9,13 +9,17 @@ redirect_from:
 
 Hi, I'm Gagana!
 
-**High School / Pre-Undergrad**: Distinctive Performance in International Mathematics Olympiad (IMO) | National University of Singapore (NUS) Summer School 
+**High School / Pre-Undergrad**: Distinctive Performance in International Mathematics Olympiad (IMO) | Invited to National University of Singapore (NUS) Scholar's Week
 
-**First Year Undergrad**: First Academic Journal Publication on potential solution to the Rosenblantt Problem | Optimized Solution to the Rosenblantt Problem (ACM Digital Library) | Indian Patent for Turing solution to the Rosenblantt Problem | Selected to MIT Media Labs Design Workshop 
+**First Year Undergrad**: First Academic Journal Publication on potential solution to the Rosenblantt Problem | Optimized Solution to the Rosenblantt Problem (ACM Digital Library) | Indian Patent for Turing solution to the Rosenblantt Problem | Selected to MIT Media Labs Design Workshop (<5% acceptance rate)
 
-**Second Year Undergrad**: Research Fellowship at HCI/CRC, Stanford University [Top 10%] (In their terms, "an incredibly ambitious" cohort on AI governance to build iterative feedback systems to evolve cooperation from repeated interactions)
+**Second Year Undergrad**: Research Fellowship at HCI/CRC, Stanford University [Top 10%] (In their terms, "an incredibly ambitious" cohort on AI governance to build iterative feedback systems to evolve cooperation from repeated interactions) | Lead the Scholar Initiative i.e., reading group + research dissemination on fundamental papers in ML including  AlphaGo. 
 
-**
+**Third Year Undergrad**: One of the only student speakers at Anita B Grace Hopper India Conference | Research Intern at CEDT/DESE, Indian Institute of Science, Bangalore | Leading the Women Empowerment Student Club helping women code!
+
+**Final Year Undergrad**: Leading International Community AI without Borders publishing research in 
+
+
 
 A data-driven personal website
 ======
