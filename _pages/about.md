@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Gagana!
-
 **High School / Pre-Undergrad**: Distinctive Performance in International Mathematics Olympiad (IMO) | Invited to National University of Singapore (NUS) Scholar's Week
 
 **First Year Undergrad**: First Academic Journal Publication on potential solution to the Rosenblantt Problem | Optimized Solution to the Rosenblantt Problem (ACM Digital Library) | Indian Patent for Turing solution to the Rosenblantt Problem | Selected to MIT Media Labs Design Workshop (<5% acceptance rate)
