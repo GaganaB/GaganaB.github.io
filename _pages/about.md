@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Gagana's profile"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,11 @@ Hi, I'm Gagana!
 
 **Third Year Undergrad**: One of the only student speakers at Anita B Grace Hopper India Conference | Research Intern at CEDT/DESE, Indian Institute of Science, Bangalore | Leading the Women Empowerment Student Club helping women code!
 
-**Final Year Undergrad**: Leading International Community AI without Borders publishing research in 
+**Final Year Undergrad**: Leading Global Non-Profit Community - AI without Borders | Graduated with 8.15/10.0
+
+**Post #1**: Scaled WOB.AI from 30 to 300 members across 20 timezones and to >35 types of cancers detected via computational pipelines | Contributed to publications in Nature and premier International ML conferences ICML, ICLR, NeurIPS, MIT Symposium | Launched AI for Social Good in Africa Project | Project Acceleration Mentor at Udacity for the AI in Healthcare Nanodegree | Global Executive Committee for Neuromatch (Alongside professors from Harvard, MIT, Stanford and UPenn)
+
+**Post #2**: Conceptualized, Patented and built scalable network infrastructure i.e., Ambitious project in the Global South where we're enabling >250,000 geographically dispersed rural communities to connect to the Internet for the very first time via more than seven million miles of cable, democratizing access to information, empowering the next billion towards their dreams.
 
 
 
